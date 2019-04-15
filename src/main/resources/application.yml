@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    username: test
+    password: test
+    virtualHost: example
+    host: kubernetes.local
+    port: 31672
